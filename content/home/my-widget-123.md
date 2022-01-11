@@ -11,4 +11,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    color: "#000000"
+    gradient_start: "#23541b"
+    gradient_end: "#769a73"
 ---

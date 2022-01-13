@@ -1,24 +1,15 @@
 ---
-# An instance of the Tag Cloud widget.
-# Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
-
-# This file represents a page section.
+widget_id: Popular Topics
 headless: true
-
-# Order that this section appears on the page.
 weight: 120
-
 title: Popular Topics
-subtitle: ''
-
+subtitle: ""
 content:
-# Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
   taxonomy: tags
-  # Choose how many tags you would like to display (0 = all tags)
   count: 20
 design:
-  # Minimum and maximum font sizes (1.0 = 100%).
   font_size_min: 0.7
-  font_size_max: 2.0
+  font_size_max: 2
 ---
+Architecture, Built and Urban Ecologies, Circular Economy - circular built environments, data visualization, environmental design, life cycle thinking and analysis, socio-ecological design, sustainable development, visual analytics, Architectural Conception, Environmental Design, Environment Dynamics, Social and Cultural, Factors of Environmental Protection, Sustainable Development

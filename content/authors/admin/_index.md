@@ -1,8 +1,9 @@
 ---
 role: "Assistant Professor "
-avatar_filename: img_8842.jpg
+avatar_filename: avatar.jpg
 bio: "My research interests include Circular Economy etc... "
-interests: []
+interests:
+  - Architecture
 social:
   - icon: envelope
     icon_pack: fas

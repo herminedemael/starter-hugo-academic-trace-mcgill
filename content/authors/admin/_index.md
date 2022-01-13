@@ -1,7 +1,8 @@
 ---
 role: "Assistant Professor "
 avatar_filename: avatar.jpg
-bio: "My research interests include Circular Economy etc... "
+bio: "My research interests include Circular Economy in Architecture and the
+  Built Environment. "
 interests:
   - Architecture
 social:
